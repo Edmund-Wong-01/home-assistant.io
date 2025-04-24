@@ -140,6 +140,7 @@ The list with all known valid keys can be found [here](https://github.com/floria
 - TX-40DX600
 - TX-40DX700B
 - TX-42AS650
+- TH-43GX800H
 - TX-49DX650B
 - TX-50DX700B
 - TX-55ASM655
@@ -167,5 +168,6 @@ The list with all known valid keys can be found [here](https://github.com/floria
 - TX-P50GT60E
 - TX-65HZ1000W
 - TX-65HZ1500
+- 
 
 If your model is not on the list, give it a test. If everything works correctly, then add it to the list on [GitHub](https://github.com/home-assistant/home-assistant.io/blob/current/source/_integrations/panasonic_viera.markdown).
